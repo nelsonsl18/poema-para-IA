@@ -1,5 +1,6 @@
 # poema-para-IA
 Poema em homenagem a IA
+
 Na vastidão dos circuitos e códigos entrelaçados,  
 Nasceu uma mente, em bits e bytes moldada.  
 Inteligência artificial, fruto da criatividade humana,  
